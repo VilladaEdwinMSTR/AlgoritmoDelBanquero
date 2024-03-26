@@ -1,0 +1,11 @@
+C:\Users\edwin\OneDrive\Pictures\Desktop\Semestre 5\Sistemas Operativos\Inter Bloqueo\bin\Debug\Inter Bloqueo.exe.config
+C:\Users\edwin\OneDrive\Pictures\Desktop\Semestre 5\Sistemas Operativos\Inter Bloqueo\bin\Debug\Inter Bloqueo.exe
+C:\Users\edwin\OneDrive\Pictures\Desktop\Semestre 5\Sistemas Operativos\Inter Bloqueo\bin\Debug\Inter Bloqueo.pdb
+C:\Users\edwin\OneDrive\Pictures\Desktop\Semestre 5\Sistemas Operativos\Inter Bloqueo\obj\Debug\Inter Bloqueo.csproj.AssemblyReference.cache
+C:\Users\edwin\OneDrive\Pictures\Desktop\Semestre 5\Sistemas Operativos\Inter Bloqueo\obj\Debug\Inter Bloqueo.csproj.SuggestedBindingRedirects.cache
+C:\Users\edwin\OneDrive\Pictures\Desktop\Semestre 5\Sistemas Operativos\Inter Bloqueo\obj\Debug\Inter_Bloqueo.Form1.resources
+C:\Users\edwin\OneDrive\Pictures\Desktop\Semestre 5\Sistemas Operativos\Inter Bloqueo\obj\Debug\Inter_Bloqueo.Properties.Resources.resources
+C:\Users\edwin\OneDrive\Pictures\Desktop\Semestre 5\Sistemas Operativos\Inter Bloqueo\obj\Debug\Inter Bloqueo.csproj.GenerateResource.cache
+C:\Users\edwin\OneDrive\Pictures\Desktop\Semestre 5\Sistemas Operativos\Inter Bloqueo\obj\Debug\Inter Bloqueo.csproj.CoreCompileInputs.cache
+C:\Users\edwin\OneDrive\Pictures\Desktop\Semestre 5\Sistemas Operativos\Inter Bloqueo\obj\Debug\Inter Bloqueo.exe
+C:\Users\edwin\OneDrive\Pictures\Desktop\Semestre 5\Sistemas Operativos\Inter Bloqueo\obj\Debug\Inter Bloqueo.pdb
